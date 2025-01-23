@@ -33,7 +33,7 @@ This project is an **assembly language implementation** designed for **MASM (Mic
 ### **Steps to Run**
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/assembly-graphics-sound.git
+   git clone https://github.com/ppakshad/AssemblyGraphicsProject.git
    ```
 2. Navigate to the project directory:
    ```sh
