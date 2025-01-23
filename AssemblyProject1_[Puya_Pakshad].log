@@ -1,0 +1,21 @@
+﻿Build started 11/30/2015 11:29:10 PM.
+     1>Project "c:\Users\Puya\documents\visual studio 2012\Projects\AssemblyProject1_[Puya_Pakshad]\AssemblyProject1_[Puya_Pakshad]\AssemblyProject1_[Puya_Pakshad].vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\AssemblyProject1_[Puya_Pakshad].unsuccessfulbuild" because "AlwaysCreate" was specified.
+       _MASM:
+         Assembling Answer1.asm...
+         cmd.exe /C "C:\Users\Puya\AppData\Local\Temp\tmpa202aaff7bbf4d5caf56bfe625f16950.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Answer1.obj" /Fl"AssemblyProject1_[Puya_Pakshad].lst" /I "C:\Irvine" /W3 /errorReport:prompt  /TaAnswer1.asm
+       _MASM:
+         Assembling Answer2.asm...
+         cmd.exe /C "C:\Users\Puya\AppData\Local\Temp\tmp59c95321a422488c8488653cb09d41f5.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Answer2.obj" /Fl"AssemblyProject1_[Puya_Pakshad].lst" /I "C:\Irvine" /W3 /errorReport:prompt  /TaAnswer2.asm
+     1>Answer2.asm(17): error A2008: syntax error : c
+     1>Answer2.asm(34): error A2008: syntax error : db
+     1>Answer2.asm(542): fatal error A1008: unmatched macro nesting
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\BuildCustomizations\masm.targets(49,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Answer2.obj" /Fl"AssemblyProject1_[Puya_Pakshad].lst" /I "C:\Irvine" /W3 /errorReport:prompt  /TaAnswer2.asm" exited with code 1.
+     1>Done Building Project "c:\Users\Puya\documents\visual studio 2012\Projects\AssemblyProject1_[Puya_Pakshad]\AssemblyProject1_[Puya_Pakshad]\AssemblyProject1_[Puya_Pakshad].vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.59
