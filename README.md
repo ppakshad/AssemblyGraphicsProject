@@ -16,14 +16,14 @@ This project is an **assembly language implementation** designed for **MASM (Mic
    - Supports an **exit key** to terminate the program.
 
 ## Features
-✅ Uses **real mode assembly programming** (MASM).  
-✅ Implements **sound generation via system speaker**.  
-✅ Dynamically **changes screen colors**.  
-✅ Draws **various geometric shapes** using BIOS interrupts.  
-✅ Processes **user input with validation**.  
-✅ Provides **real-time clock display and updates**.  
-✅ Supports **shape movement with keyboard controls**.  
-✅ Exits gracefully with a defined **exit key**.
+- Uses **real mode assembly programming** (MASM).  
+- Implements **sound generation via system speaker**.  
+- Dynamically **changes screen colors**.  
+- Draws **various geometric shapes** using BIOS interrupts.  
+- Processes **user input with validation**.  
+- Provides **real-time clock display and updates**.  
+- Supports **shape movement with keyboard controls**.  
+- Exits gracefully with a defined **exit key**.
 
 ## Installation & Execution
 ### **Prerequisites**
